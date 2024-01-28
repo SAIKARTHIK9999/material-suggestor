@@ -1,0 +1,9 @@
+@mixin headings_style {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    
+}
+#hedaings{
+    @include headings_style();
+}
