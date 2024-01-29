@@ -1,0 +1,186 @@
+{
+    "sections": [
+      {
+        "condition": "toughnessState.length === 6 && scratchResistance.length === 6 && ductilityState.length === 6 && machinabilityState.length === 4",
+        "content": [
+          {
+            "type": "heading",
+            "text": "Cartridge Brass, Admiralty Brass, Muntz Metal, 416,430,416Se,430F,301,303, 303Se Stainless Steels, Britannia Silver, Pewter, Shibuichi, Spring Steel"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.copper.org/applications/industrial/DesignGuide/selection/brasses02.html#:~:text=Cartridge%20brass%2C%20a%20copper%20alloy,contacts%2C%20and%20other%20connector%20components.",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.cartidgebrass",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "http://ameritube.net/c44300-admiralty-brass/#:~:text=Admiralty%20brass%20is%20composed%20of,these%20tubes%20are%20very%20useful.",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.muntzmetal",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Muntz_metal",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.admbrass",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.pennstainless.com/resources/product-information/stainless-grades/400-series/",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.admbrass",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.nealloys.com/300_series_alloy.php",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.britsilver",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Britannia_silver",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.pewter",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Pewter#:~:text=Pewter%20(%2F%CB%88pju%CB%90t,pewter%2C%20imparting%20a%20bluish%20tint.",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.shibuichi",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Shibuichi",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.springsteel",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Spring_steel",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.admbrass",
+            "alt": "profile_bg"
+          }
+        ]
+      },
+      {
+        "condition": "toughnessState.length === 4 && scratchResistance.length === 6 && ductilityState.length === 4 && machinabilityState.length === 3",
+        "content": [
+          {
+            "type": "heading",
+            "text": "Ni 316 Steel"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki/Iron%E2%80%93nickel_alloy",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.nickelsteel",
+            "alt": "profile_bg"
+          }
+        ]
+      },
+      {
+        "condition": "toughnessState.length === 6 && scratchResistance.length === 6 && ductilityState.length === 3 && machinabilityState.length === 6",
+        "content": [
+          {
+            "type": "heading",
+            "text": "Cr 408 Steel"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.hardening-of-stainless-steel.com/materials/chromium-steel/",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.crsteel",
+            "alt": "profile_bg"
+          }
+        ]
+      },
+      {
+        "condition": "toughnessState.length === 6 && scratchResistance.length === 3 && ductilityState.length === 6 && machinabilityState.length === 4",
+        "content": [
+          {
+            "type": "heading",
+            "text": "Cr 409 Steel, Leaded Brass, Britannium"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.azom.com/article.aspx?ArticleID=969",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.crsteel",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://www.avivametals.com/collections/leaded-brass",
+            "target": "_blank"
+          },
+          {
+            "type": "image",
+            "src": "images.leadedbrass",
+            "alt": "profile_bg"
+          },
+          {
+            "type": "link",
+            "text": "Click To Know More!",
+            "href": "https://en.wikipedia.org/wiki.org"
+          }
+        ]
+        
